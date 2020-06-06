@@ -1,3 +1,3 @@
-## Welcome to my site.
+## Welcome to Mycatravels!
 
-Travel with me as I explore the different cultures and food around the world.
+Travel with me as I explore different cultures and try delicious food around the world.
